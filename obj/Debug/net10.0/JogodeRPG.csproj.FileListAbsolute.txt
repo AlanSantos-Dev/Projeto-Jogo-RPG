@@ -1,0 +1,14 @@
+C:\JogodeRPG\bin\Debug\net10.0\JogodeRPG.exe
+C:\JogodeRPG\bin\Debug\net10.0\JogodeRPG.deps.json
+C:\JogodeRPG\bin\Debug\net10.0\JogodeRPG.runtimeconfig.json
+C:\JogodeRPG\bin\Debug\net10.0\JogodeRPG.dll
+C:\JogodeRPG\bin\Debug\net10.0\JogodeRPG.pdb
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.AssemblyInfoInputs.cache
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.AssemblyInfo.cs
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.csproj.CoreCompileInputs.cache
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.dll
+C:\JogodeRPG\obj\Debug\net10.0\refint\JogodeRPG.dll
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.pdb
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.genruntimeconfig.cache
+C:\JogodeRPG\obj\Debug\net10.0\ref\JogodeRPG.dll
