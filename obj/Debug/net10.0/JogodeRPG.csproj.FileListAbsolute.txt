@@ -12,3 +12,4 @@ C:\JogodeRPG\obj\Debug\net10.0\refint\JogodeRPG.dll
 C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.pdb
 C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.genruntimeconfig.cache
 C:\JogodeRPG\obj\Debug\net10.0\ref\JogodeRPG.dll
+C:\JogodeRPG\obj\Debug\net10.0\JogodeRPG.sourcelink.json

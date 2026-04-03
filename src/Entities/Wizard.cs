@@ -25,11 +25,11 @@ namespace JogodeRPG.src.Entities
         {
             if (Bonus > 6)
             {
-                return this.Name + "Lançou magia com bônus de ataque de " + Bonus;
+                return this.Name + " " +"Lançou magia com bônus de ataque de " + Bonus;
             }
             else
             {
-                return this.Name + "Lançou magia com força fraca com bônus de ataque de " + Bonus;
+                return this.Name + " " + "Lançou magia com força fraca com bônus de ataque de " + Bonus;
             }
         }
 
